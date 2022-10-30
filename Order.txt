@@ -1,0 +1,10 @@
+git init 
+git pull https://github.com/Frank0213/Frank0213.git
+git clone https://github.com/Frank0213/Frank0213.git
+
+git push https://github.com/Frank0213/Frank0213.git
+git config user.name
+git config user.email
+git config --global http.sslVerify "false"
+ssh-keygen -t rsa -C "574715302@qq.com"
+
